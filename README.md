@@ -1,6 +1,4 @@
-# DLATA-repository
-
-# FNFT: Fast Nonlinear Fourier Transforms
+# DLATA: Deep Learning-Assisted Transformation Alignment
 
 [![Version](https://img.shields.io/github/v/release/FastNFT/FNFT)](https://github.com/FastNFT/FNFT/releases) [![Documentation](https://img.shields.io/badge/-documentation-informational)](https://fastnft.github.io/FNFT/) [![Build Status](https://travis-ci.org/FastNFT/FNFT.svg?branch=master)](https://travis-ci.org/FastNFT/FNFT) [![DOI](http://joss.theoj.org/papers/10.21105/joss.00597/status.svg)](https://doi.org/10.21105/joss.00597)
 
@@ -8,31 +6,29 @@ FNFT is a software library for the numerical computation of (inverse) nonlinear 
 
 ## Currently Implemented Cases
 
+
+* 2D Brain Slice Registration
+
+    * Nissal-stained coronal brain slice 
+
+    * Fluorescent-stained coronal brain slice 
+    
+    * ...
+
+
+* 2D Biological Tissue Registration
+
+
 ### Forward Transforms
-
-* Nonlinear Schroedinger equation
-
-    * Vanishing boundary conditions
-      * Reflection coefficient and/or scattering coefficients (a and b)
-      * Bound states (eigenvalues)
-      * Norming constants and/or residues
-
+* Korteweg-de Vries equation
+    * Vanishing boundary conditions (reflection coefficient only)
     * (Quasi-)Periodic boundary conditions
       * Main spectrum
       * Auxiliary spectrum
 
-* Korteweg-de Vries equation
-    * Vanishing boundary conditions (reflection coefficient only)
+## Contact
 
-### Inverse Transforms
-
-* Nonlinear Schroedinger equation
-
-    * Vanishing boundary conditions
-      * Inversion of reflection coefficients, b-scattering coefficients or the inverse Fourier transform of the b-coefficient
-      * Bound states (eigenvalues) can be added with arbitrary norming constants/residuals
-
-## Mailing List
+If you have any question, please contact the corresponding author Liping Wang: lp.wang1@siat.ac.cn
 
 Please join the FNFT mailing list if you want to be notified about new releases of FNFT. You can subscribe either using the [web interface](https://listserv.tudelft.nl/mailman/listinfo/fnft-announcements), or by sending an email with the subject "subscribe" to <fnft-announcements-request@lists.tudelft.nl>.
 
