@@ -2,6 +2,8 @@
 
 [![Version](https://img.shields.io/github/v/release/FastNFT/FNFT)](https://github.com/FastNFT/FNFT/releases) [![Documentation](https://img.shields.io/badge/-documentation-informational)](https://fastnft.github.io/FNFT/) [![Build Status](https://travis-ci.org/FastNFT/FNFT.svg?branch=master)](https://travis-ci.org/FastNFT/FNFT) [![DOI](http://joss.theoj.org/papers/10.21105/joss.00597/status.svg)](https://doi.org/10.21105/joss.00597)
 
+Deep Learning-Assisted Transformation Alignment (DLATA) uses deep learning to automatically identify feature points in images after training on a few labeled samples. Following feature point recognition, the geometrical transformation technique is used for image registration. DLATA can be applied to not only the alignment of 2D brain slice, buy also the one of other biological tissue slices. 
+
 FNFT is a software library for the numerical computation of (inverse) nonlinear Fourier transforms, which are also known as (inverse) scattering transforms. The focus of the library is on fast algorithms, but it also contains non-fast methods. FNFT is written in C and comes with a MATLAB interface. A [Python interface](https://github.com/xmhk/FNFTpy) is available separately.
 
 ## Currently Implemented Cases
