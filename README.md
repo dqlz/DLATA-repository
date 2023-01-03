@@ -59,13 +59,22 @@ Please download the script files in 'github code/formal code'.
 
 Please follow the instructions in the file [INSTALL.md](INSTALL.md).
 
+## Requirements
+
+This release has been tested with the following requirements and dependencies:
+
+[DeepLabCut](mailto:s.wahls##at##tudelft.nl)
+
+[Matlab](mailto:s.wahls##at##tudelft.nl)
+
+
+Please use the [issue tracker](https://github.com/FastNFT/FNFT/issues) to report any problems with the software. If you want to contribute to the development of FNFT, please [email](mailto:s.wahls##at##tudelft.nl) Sander Wahls.
+
+
 ## Getting started
 
 Please read the file [Getting-Started.md](Getting-Started.md).
 
-## Community Guidelines
-
-Please use the [issue tracker](https://github.com/FastNFT/FNFT/issues) to report any problems with the software. If you want to contribute to the development of FNFT, please [email](mailto:s.wahls##at##tudelft.nl) Sander Wahls.
 
 ## Contributors
 
