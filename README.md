@@ -55,7 +55,7 @@ Latex users can use the following BibTex entry.
 
 ## Installation
 
-Please download the script files 
+Please download the script files in 'github code/formal code'.
 
 Please follow the instructions in the file [INSTALL.md](INSTALL.md).
 
@@ -69,14 +69,15 @@ Please use the [issue tracker](https://github.com/FastNFT/FNFT/issues) to report
 
 ## Contributors
 
-* Sander Wahls, TU Delft
+* Luo Moxuan, HK CityU
+
 * Shrinivas Chimmalgi, TU Delft
 * Peter J. Prins, TU Delft
 * Marius Brehler, TU Dortmund
 
 ## License
 
-FNFT is provided under the terms of the [GNU General Public License, version 2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html).
+DLATA is provided under the terms of the [MIT](https://opensource.org/licenses/MIT).
 
 ## Acknowledgements
 
