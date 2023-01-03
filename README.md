@@ -34,7 +34,9 @@ Please join the FNFT mailing list if you want to be notified about new releases 
 
 ## Citation
 
-If you use FNFT for your academic work, please cite the accompanying [software paper](https://doi.org/10.21105/joss.00597).  Latex users can use the following BibTex entry.
+If you use or modify DLATA for your study, please cite the accompanying [paper](https://doi.org/10.21105/joss.00597). 
+
+Latex users can use the following BibTex entry.
 
 ```
 @article{FNFT2018,
@@ -52,6 +54,8 @@ If you use FNFT for your academic work, please cite the accompanying [software p
 ```
 
 ## Installation
+
+Please download the script files 
 
 Please follow the instructions in the file [INSTALL.md](INSTALL.md).
 
